@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet2" targetNamespace="http://tempuri.org/DataSet2.xsd" xmlns:mstns="http://tempuri.org/DataSet2.xsd" xmlns="http://tempuri.org/DataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet2" msprop:Generator_DataSetName="DataSet2" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_TablePropName="DataTable1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="用车单号" msprop:Generator_UserColumnName="用车单号" msprop:Generator_ColumnVarNameInTable="column用车单号" msprop:Generator_ColumnPropNameInRow="用车单号" msprop:Generator_ColumnPropNameInTable="用车单号Column" type="xs:string" minOccurs="0" />
+              <xs:element name="部门" msprop:Generator_UserColumnName="部门" msprop:Generator_ColumnVarNameInTable="column部门" msprop:Generator_ColumnPropNameInRow="部门" msprop:Generator_ColumnPropNameInTable="部门Column" type="xs:string" minOccurs="0" />
+              <xs:element name="使用人" msprop:Generator_UserColumnName="使用人" msprop:Generator_ColumnVarNameInTable="column使用人" msprop:Generator_ColumnPropNameInRow="使用人" msprop:Generator_ColumnPropNameInTable="使用人Column" type="xs:string" minOccurs="0" />
+              <xs:element name="车牌号码" msprop:Generator_UserColumnName="车牌号码" msprop:Generator_ColumnVarNameInTable="column车牌号码" msprop:Generator_ColumnPropNameInRow="车牌号码" msprop:Generator_ColumnPropNameInTable="车牌号码Column" type="xs:string" minOccurs="0" />
+              <xs:element name="使用日期" msprop:Generator_UserColumnName="使用日期" msprop:Generator_ColumnVarNameInTable="column使用日期" msprop:Generator_ColumnPropNameInRow="使用日期" msprop:Generator_ColumnPropNameInTable="使用日期Column" type="xs:string" minOccurs="0" />
+              <xs:element name="送货地址" msprop:Generator_UserColumnName="送货地址" msprop:Generator_ColumnVarNameInTable="column送货地址" msprop:Generator_ColumnPropNameInRow="送货地址" msprop:Generator_ColumnPropNameInTable="送货地址Column" type="xs:string" minOccurs="0" />
+              <xs:element name="事由说明" msprop:Generator_UserColumnName="事由说明" msprop:Generator_ColumnVarNameInTable="column事由说明" msprop:Generator_ColumnPropNameInRow="事由说明" msprop:Generator_ColumnPropNameInTable="事由说明Column" type="xs:string" minOccurs="0" />
+              <xs:element name="出车保安" msprop:Generator_UserColumnName="出车保安" msprop:Generator_ColumnVarNameInTable="column出车保安" msprop:Generator_ColumnPropNameInRow="出车保安" msprop:Generator_ColumnPropNameInTable="出车保安Column" type="xs:string" minOccurs="0" />
+              <xs:element name="回车保安" msprop:Generator_UserColumnName="回车保安" msprop:Generator_ColumnVarNameInTable="column回车保安" msprop:Generator_ColumnPropNameInRow="回车保安" msprop:Generator_ColumnPropNameInTable="回车保安Column" type="xs:string" minOccurs="0" />
+              <xs:element name="出车时间" msprop:Generator_UserColumnName="出车时间" msprop:Generator_ColumnVarNameInTable="column出车时间" msprop:Generator_ColumnPropNameInRow="出车时间" msprop:Generator_ColumnPropNameInTable="出车时间Column" type="xs:string" minOccurs="0" />
+              <xs:element name="回车时间" msprop:Generator_UserColumnName="回车时间" msprop:Generator_ColumnVarNameInTable="column回车时间" msprop:Generator_ColumnPropNameInRow="回车时间" msprop:Generator_ColumnPropNameInTable="回车时间Column" type="xs:string" minOccurs="0" />
+              <xs:element name="出车时里程" msprop:Generator_UserColumnName="出车时里程" msprop:Generator_ColumnVarNameInTable="column出车时里程" msprop:Generator_ColumnPropNameInRow="出车时里程" msprop:Generator_ColumnPropNameInTable="出车时里程Column" type="xs:string" minOccurs="0" />
+              <xs:element name="回车时里程" msprop:Generator_UserColumnName="回车时里程" msprop:Generator_ColumnVarNameInTable="column回车时里程" msprop:Generator_ColumnPropNameInRow="回车时里程" msprop:Generator_ColumnPropNameInTable="回车时里程Column" type="xs:string" minOccurs="0" />
+              <xs:element name="车辆属性" msprop:Generator_UserColumnName="车辆属性" msprop:Generator_ColumnVarNameInTable="column车辆属性" msprop:Generator_ColumnPropNameInRow="车辆属性" msprop:Generator_ColumnPropNameInTable="车辆属性Column" type="xs:string" minOccurs="0" />
+              <xs:element name="调度员" msprop:Generator_UserColumnName="调度员" msprop:Generator_ColumnVarNameInTable="column调度员" msprop:Generator_ColumnPropNameInRow="调度员" msprop:Generator_ColumnPropNameInTable="调度员Column" type="xs:string" minOccurs="0" />
+              <xs:element name="审核人" msprop:Generator_UserColumnName="审核人" msprop:Generator_ColumnPropNameInRow="审核人" msprop:Generator_ColumnVarNameInTable="column审核人" msprop:Generator_ColumnPropNameInTable="审核人Column" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

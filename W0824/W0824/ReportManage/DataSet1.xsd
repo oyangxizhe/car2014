@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet1" msprop:Generator_DataSetName="DataSet1" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_TablePropName="DataTable1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="用车单号" msprop:Generator_UserColumnName="用车单号" msprop:Generator_ColumnPropNameInRow="用车单号" msprop:Generator_ColumnVarNameInTable="column用车单号" msprop:Generator_ColumnPropNameInTable="用车单号Column" type="xs:string" minOccurs="0" />
+              <xs:element name="车牌号码" msprop:Generator_UserColumnName="车牌号码" msprop:Generator_ColumnPropNameInRow="车牌号码" msprop:Generator_ColumnVarNameInTable="column车牌号码" msprop:Generator_ColumnPropNameInTable="车牌号码Column" type="xs:string" minOccurs="0" />
+              <xs:element name="驾驶员" msprop:Generator_UserColumnName="驾驶员" msprop:Generator_ColumnPropNameInRow="驾驶员" msprop:Generator_ColumnVarNameInTable="column驾驶员" msprop:Generator_ColumnPropNameInTable="驾驶员Column" type="xs:string" minOccurs="0" />
+              <xs:element name="公里数" msprop:Generator_UserColumnName="公里数" msprop:Generator_ColumnVarNameInTable="column公里数" msprop:Generator_ColumnPropNameInRow="公里数" msprop:Generator_ColumnPropNameInTable="公里数Column" type="xs:string" minOccurs="0" />
+              <xs:element name="客户名称" msprop:Generator_UserColumnName="客户名称" msprop:Generator_ColumnPropNameInRow="客户名称" msprop:Generator_ColumnVarNameInTable="column客户名称" msprop:Generator_ColumnPropNameInTable="客户名称Column" type="xs:string" minOccurs="0" />
+              <xs:element name="收货地址" msprop:Generator_UserColumnName="收货地址" msprop:Generator_ColumnPropNameInRow="收货地址" msprop:Generator_ColumnVarNameInTable="column收货地址" msprop:Generator_ColumnPropNameInTable="收货地址Column" type="xs:string" minOccurs="0" />
+              <xs:element name="送货地址" msprop:Generator_UserColumnName="送货地址" msprop:Generator_ColumnPropNameInRow="送货地址" msprop:Generator_ColumnVarNameInTable="column送货地址" msprop:Generator_ColumnPropNameInTable="送货地址Column" type="xs:string" minOccurs="0" />
+              <xs:element name="运费收入" msprop:Generator_UserColumnName="运费收入" msprop:Generator_ColumnPropNameInRow="运费收入" msprop:Generator_ColumnVarNameInTable="column运费收入" msprop:Generator_ColumnPropNameInTable="运费收入Column" type="xs:string" minOccurs="0" />
+              <xs:element name="排班收入" msprop:Generator_UserColumnName="排班收入" msprop:Generator_ColumnPropNameInRow="排班收入" msprop:Generator_ColumnVarNameInTable="column排班收入" msprop:Generator_ColumnPropNameInTable="排班收入Column" type="xs:string" minOccurs="0" />
+              <xs:element name="维修费用" msprop:Generator_UserColumnName="维修费用" msprop:Generator_ColumnPropNameInRow="维修费用" msprop:Generator_ColumnVarNameInTable="column维修费用" msprop:Generator_ColumnPropNameInTable="维修费用Column" type="xs:string" minOccurs="0" />
+              <xs:element name="加油费用" msprop:Generator_UserColumnName="加油费用" msprop:Generator_ColumnPropNameInRow="加油费用" msprop:Generator_ColumnVarNameInTable="column加油费用" msprop:Generator_ColumnPropNameInTable="加油费用Column" type="xs:string" minOccurs="0" />
+              <xs:element name="轮胎费用" msprop:Generator_UserColumnName="轮胎费用" msprop:Generator_ColumnPropNameInRow="轮胎费用" msprop:Generator_ColumnVarNameInTable="column轮胎费用" msprop:Generator_ColumnPropNameInTable="轮胎费用Column" type="xs:string" minOccurs="0" />
+              <xs:element name="保险费用" msprop:Generator_UserColumnName="保险费用" msprop:Generator_ColumnPropNameInRow="保险费用" msprop:Generator_ColumnVarNameInTable="column保险费用" msprop:Generator_ColumnPropNameInTable="保险费用Column" type="xs:string" minOccurs="0" />
+              <xs:element name="年审费用" msprop:Generator_UserColumnName="年审费用" msprop:Generator_ColumnPropNameInRow="年审费用" msprop:Generator_ColumnVarNameInTable="column年审费用" msprop:Generator_ColumnPropNameInTable="年审费用Column" type="xs:string" minOccurs="0" />
+              <xs:element name="过路费用" msprop:Generator_UserColumnName="过路费用" msprop:Generator_ColumnPropNameInRow="过路费用" msprop:Generator_ColumnVarNameInTable="column过路费用" msprop:Generator_ColumnPropNameInTable="过路费用Column" type="xs:string" minOccurs="0" />
+              <xs:element name="保养费用" msprop:Generator_UserColumnName="保养费用" msprop:Generator_ColumnPropNameInRow="保养费用" msprop:Generator_ColumnVarNameInTable="column保养费用" msprop:Generator_ColumnPropNameInTable="保养费用Column" type="xs:string" minOccurs="0" />
+              <xs:element name="其它费用" msprop:Generator_UserColumnName="其它费用" msprop:Generator_ColumnPropNameInRow="其它费用" msprop:Generator_ColumnVarNameInTable="column其它费用" msprop:Generator_ColumnPropNameInTable="其它费用Column" type="xs:string" minOccurs="0" />
+              <xs:element name="费用合计" msprop:Generator_UserColumnName="费用合计" msprop:Generator_ColumnPropNameInRow="费用合计" msprop:Generator_ColumnVarNameInTable="column费用合计" msprop:Generator_ColumnPropNameInTable="费用合计Column" type="xs:string" minOccurs="0" />
+              <xs:element name="实现利润" msprop:Generator_UserColumnName="实现利润" msprop:Generator_ColumnPropNameInRow="实现利润" msprop:Generator_ColumnVarNameInTable="column实现利润" msprop:Generator_ColumnPropNameInTable="实现利润Column" type="xs:string" minOccurs="0" />
+              <xs:element name="起始日期" msprop:Generator_UserColumnName="起始日期" msprop:Generator_ColumnPropNameInRow="起始日期" msprop:Generator_ColumnVarNameInTable="column起始日期" msprop:Generator_ColumnPropNameInTable="起始日期Column" type="xs:string" minOccurs="0" />
+              <xs:element name="截止日期" msprop:Generator_UserColumnName="截止日期" msprop:Generator_ColumnPropNameInRow="截止日期" msprop:Generator_ColumnVarNameInTable="column截止日期" msprop:Generator_ColumnPropNameInTable="截止日期Column" type="xs:string" minOccurs="0" />
+              <xs:element name="油库耗油" msprop:Generator_UserColumnName="油库耗油" msprop:Generator_ColumnPropNameInRow="油库耗油" msprop:Generator_ColumnVarNameInTable="column油库耗油" msprop:Generator_ColumnPropNameInTable="油库耗油Column" type="xs:string" minOccurs="0" />
+              <xs:element name="油库费用" msprop:Generator_UserColumnName="油库费用" msprop:Generator_ColumnPropNameInRow="油库费用" msprop:Generator_ColumnVarNameInTable="column油库费用" msprop:Generator_ColumnPropNameInTable="油库费用Column" type="xs:string" minOccurs="0" />
+              <xs:element name="出车吨数" msprop:Generator_UserColumnName="出车吨数" msprop:Generator_ColumnVarNameInTable="column出车吨数" msprop:Generator_ColumnPropNameInRow="出车吨数" msprop:Generator_ColumnPropNameInTable="出车吨数Column" type="xs:string" minOccurs="0" />
+              <xs:element name="回车吨数" msprop:Generator_UserColumnName="回车吨数" msprop:Generator_ColumnVarNameInTable="column回车吨数" msprop:Generator_ColumnPropNameInRow="回车吨数" msprop:Generator_ColumnPropNameInTable="回车吨数Column" type="xs:string" minOccurs="0" />
+              <xs:element name="路卡费用" msprop:Generator_UserColumnName="路卡费用" msprop:Generator_ColumnPropNameInRow="路卡费用" msprop:Generator_ColumnVarNameInTable="column路卡费用" msprop:Generator_ColumnPropNameInTable="路卡费用Column" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
