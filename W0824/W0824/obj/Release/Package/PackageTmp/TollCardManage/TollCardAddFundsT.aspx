@@ -60,7 +60,7 @@
 </div> 
   <div class ="c13101902">
       <div class="c13101903" id ="Div2">
-          路卡冲值单号 </div>
+          冲值单号 </div>
      <div class="c13122502" id ="Div4">
 <input id="Text1" type="text"  runat="server"   readonly ="readonly" class="c13102103" /> 
          <asp:RequiredFieldValidator ID="RequiredFieldValidator1" ControlToValidate="Text1" Text="必填" runat="server" /></div>

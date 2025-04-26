@@ -7,3 +7,12 @@ D:\苏州好用软件有限公司软件作品\4.客户4_CAR车辆管理2014_客�
 D:\苏州好用软件有限公司软件作品\4.客户4_CAR车辆管理2014_客户客制物流公司版 昆明客户_20140115\W0824\W0824\bin\XizheC.pdb
 D:\苏州好用软件有限公司软件作品\4.客户4_CAR车辆管理2014_客户客制物流公司版 昆明客户_20140115\W0824\W0824\obj\Release\W0824.dll
 D:\苏州好用软件有限公司软件作品\4.客户4_CAR车辆管理2014_客户客制物流公司版 昆明客户_20140115\W0824\W0824\obj\Release\W0824.pdb
+D:\Suzhou Haoyong Software Co., Ltd_products\4.客户4_CAR车辆管理2014_客户客制物流公司版 昆明客户_20140115\car2014\W0824\W0824\bin\W0824.dll
+D:\Suzhou Haoyong Software Co., Ltd_products\4.客户4_CAR车辆管理2014_客户客制物流公司版 昆明客户_20140115\car2014\W0824\W0824\bin\W0824.pdb
+D:\Suzhou Haoyong Software Co., Ltd_products\4.客户4_CAR车辆管理2014_客户客制物流公司版 昆明客户_20140115\car2014\W0824\W0824\bin\Microsoft.Office.Interop.Excel.dll
+D:\Suzhou Haoyong Software Co., Ltd_products\4.客户4_CAR车辆管理2014_客户客制物流公司版 昆明客户_20140115\car2014\W0824\W0824\bin\office.dll
+D:\Suzhou Haoyong Software Co., Ltd_products\4.客户4_CAR车辆管理2014_客户客制物流公司版 昆明客户_20140115\car2014\W0824\W0824\bin\Microsoft.Vbe.Interop.dll
+D:\Suzhou Haoyong Software Co., Ltd_products\4.客户4_CAR车辆管理2014_客户客制物流公司版 昆明客户_20140115\car2014\W0824\W0824\bin\XizheC.pdb
+D:\Suzhou Haoyong Software Co., Ltd_products\4.客户4_CAR车辆管理2014_客户客制物流公司版 昆明客户_20140115\car2014\W0824\W0824\obj\Release\W0824.csprojResolveAssemblyReference.cache
+D:\Suzhou Haoyong Software Co., Ltd_products\4.客户4_CAR车辆管理2014_客户客制物流公司版 昆明客户_20140115\car2014\W0824\W0824\obj\Release\W0824.dll
+D:\Suzhou Haoyong Software Co., Ltd_products\4.客户4_CAR车辆管理2014_客户客制物流公司版 昆明客户_20140115\car2014\W0824\W0824\obj\Release\W0824.pdb

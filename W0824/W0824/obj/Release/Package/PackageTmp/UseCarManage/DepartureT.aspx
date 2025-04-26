@@ -135,7 +135,7 @@
            
            <div class ="c13101902">
                    <div class="c13101903" id ="Div5">
-                        预约车辆类型</div>
+                        车辆类型</div>
      <div class="c13122502"  id ="Div6">
          <asp:DropDownList ID="DropDownList1" runat="server"  CssClass="c13102104" >
                                 <asp:ListItem>大型货车</asp:ListItem>
@@ -149,7 +149,7 @@
           <asp:RequiredFieldValidator ID="RequiredFieldValidator5" ControlToValidate="DropDownList1" Text="必填" runat="server" /></span> 
          </div>
               <div class="c13101903" id ="Div15">
-                  预计回程时间</div>
+                  预计回程</div>
      <div class="c13122502"  id ="Div21">
    <input id="Text11" type="text"  runat ="server"  onclick ="f13100202('Text11','')"  class ="c14112508"/>
                        </div>
@@ -202,7 +202,7 @@
 <input id="Text18" type="text" runat="server"  class="c13102103"  />
 </div>
                       <div class="c13101903" id ="Div53">
-                           出车时里程数</div>
+                           出车时里程</div>
      <div class="c13122502"  id ="Div54">
 <input id="Text19" type="text" runat="server"  class ="c14112508"  />
 
@@ -223,7 +223,7 @@
            
 <div class ="c13111601">
        <div class="c13101903" id ="Div35">
-           添加客户信息</div>
+           添加客户</div>
      <div class="c13122502"  id ="Div36">
       <span style="color :#990033"></span>
 </div>

@@ -3,6 +3,7 @@
   <PropertyGroup>
     <ReferencePath>C:\Program Files\Business Objects\Common\2.8\managed\</ReferencePath>
     <ProjectView>ShowAllFiles</ProjectView>
+    <NameOfLastUsedPublishProfile>car</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
